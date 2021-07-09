@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499061907192",
+    "project_id": "androstream-816d3",
+    "storage_bucket": "androstream-816d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499061907192:android:dd0c40351364ef72b9250d",
+        "android_client_info": {
+          "package_name": "com.toy0407.androstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499061907192-ehgusel60q0jhqakh71158i7tcmo7uqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK2lRXzPPh7G7drJUxH9KbkHQYGRLywmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499061907192-ehgusel60q0jhqakh71158i7tcmo7uqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
